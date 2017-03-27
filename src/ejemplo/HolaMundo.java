@@ -19,7 +19,7 @@ public class HolaMundo {
     public static void saludarAlPublico(String nombreDeQuienSaluda,String nombreMateria){
         System.out.println("Hola PV2015, saluda: " +nombreDeQuienSaluda + nombreMateria);
         
-        //System.out.println(nombreDeQuienSaluda);
+        System.out.println(nombreDeQuienSaluda);
     }
     
 }

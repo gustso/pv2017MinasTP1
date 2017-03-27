@@ -11,7 +11,7 @@ package ejemplo;
  */
 public class HolaMundo {
     public static void main(String[] args){
-        String nombreMateria2 = "PV Este es un cambio ";
+        String nombreMateria2 = "PV Este es un cambio Nuevo cambio ";
         saludarAlPublico("Juan Manuel \n ",nombreMateria2);
         
     }
